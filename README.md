@@ -34,8 +34,9 @@ Estou iniciando meus estudos em desenvolvimento e aprendendo através da criaç�
 
 A ideia é continuar utilizando **tecnologia e programação** para desenvolver ferramentas que possam contribuir com automação, manutenção, gestão e melhoria de processos.
 ---
-<img src="https://raw.githubusercontent.com/olivier-tech09/olivier-tech09/main/github.jpg" width="350">
-
+<p align="center">
+  <img src="githubb.jpg" width="350" alt="Imagem">
+</p>
 ## 🚀 Atualmente
 
 ⚙️ Trabalhando com Automação Predial e BMS  
