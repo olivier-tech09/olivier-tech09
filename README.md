@@ -1,5 +1,7 @@
  Olá, eu sou a Cristina 😁
-
+<p align="center">
+  <img src="githubb.jpg" width="350" alt="Imagem">
+</p>
 
 ### ⚡ Eletricista de Manutenção Eletroeletrônica | Automação Predial | BMS
 
@@ -34,9 +36,6 @@ Estou iniciando meus estudos em desenvolvimento e aprendendo através da criaç�
 
 A ideia é continuar utilizando **tecnologia e programação** para desenvolver ferramentas que possam contribuir com automação, manutenção, gestão e melhoria de processos.
 ---
-<p align="center">
-  <img src="githubb.jpg" width="350" alt="Imagem">
-</p>
 ## 🚀 Atualmente
 
 ⚙️ Trabalhando com Automação Predial e BMS  
