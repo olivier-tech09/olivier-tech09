@@ -33,7 +33,8 @@ Estou iniciando meus estudos em desenvolvimento e aprendendo através da criaç�
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 A ideia é continuar utilizando **tecnologia e programação** para desenvolver ferramentas que possam contribuir com automação, manutenção, gestão e melhoria de processos.
-![Imagem](./github.jpg)
+---
+<img src="https://raw.githubusercontent.com/olivier-tech09/olivier-tech09/main/github.jpg" width="350">
 
 ## 🚀 Atualmente
 
