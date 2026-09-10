@@ -33,7 +33,9 @@ Estou iniciando meus estudos em desenvolvimento e aprendendo através da criaç�
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 A ideia é continuar utilizando **tecnologia e programação** para desenvolver ferramentas que possam contribuir com automação, manutenção, gestão e melhoria de processos.
-
+<p align="center">
+  <img src="github.jpg" width="350">
+</p>
 ---
 
 ## 🚀 Atualmente
