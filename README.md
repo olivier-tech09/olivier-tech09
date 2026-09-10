@@ -1,5 +1,5 @@
  Olá, eu sou a Cristina 😁
-<img align="right" src="pcgithubb.jpg" width="300">
+<img align="right" src="githubb.jpg" width="300">
 
 ### ⚡ Eletricista de Manutenção Eletroeletrônica | Automação Predial | BMS
 
