@@ -1,4 +1,4 @@
-# Cris-linda-C-Olá! Eu sou a Cristina 👋
+ Eu sou a Cristina 👋
 
 ⚡ Eletricista de Manutenção Eletroeletrônica | Automação Predial | BMS
 
