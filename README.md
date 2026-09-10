@@ -35,7 +35,7 @@ A ideia é continuar utilizando tecnologia e programação para desenvolver ferr
 
 📫 Conecte-se comigo
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Cristina%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (COLOQUE-AQUI-O-LINK-DO-SEU-LINKEDIN)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Cristina%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/cristina-oliveira-810595252?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
