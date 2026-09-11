@@ -1,0 +1,38 @@
+<svg width="1000" height="240" viewBox="0 0 1000 240" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Fundo -->
+  <rect width="1000" height="240" fill="#0d1117"></rect>
+
+  <!-- Faixa superior -->
+  <path d="M0 0 H1000 V115 L620 95 L0 115 Z" fill="#e91e63"></path>
+
+  <!-- Nome -->
+  <text x="500" y="72" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="2" fill="#ffffff">
+    CRISTINA OLIVEIRA
+  </text>
+
+  <!-- Texto animado 1 -->
+  <text x="500" y="175" text-anchor="middle" font-family="Consolas, monospace" font-size="21" fill="#ff4f9a">
+
+    Automação Predial ⚡
+
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.4;0.5;1" dur="8s" repeatCount="indefinite"></animate>
+  </text>
+
+  <!-- Texto animado 2 -->
+  <text x="500" y="175" text-anchor="middle" font-family="Consolas, monospace" font-size="21" fill="#ff4f9a" opacity="0">
+
+    BMS • Tecnologia
+
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.45;0.55;0.9;1" dur="8s" repeatCount="indefinite"></animate>
+  </text>
+
+  <!-- Cursor -->
+  <rect x="640" y="157" width="3" height="23" fill="#ff4f9a">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"></animate>
+  </rect>
+
+  <!-- Linha inferior -->
+  <rect x="80" y="220" width="840" height="2" fill="#30363d"></rect>
+
+</svg>
