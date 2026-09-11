@@ -34,8 +34,7 @@ Atualmente também estou expandindo meus conhecimentos em <b>tecnologia e desenv
 
 </td>
 
-
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center" valign="middle">
 
 <img src="./working computer.gif" width="300" alt="Working Computer GIF">
 
@@ -46,7 +45,7 @@ Atualmente também estou expandindo meus conhecimentos em <b>tecnologia e desenv
 
 
 <!-- ========================= -->
-<!-- EXPERIÊNCIA -->
+<!-- AUTOMAÇÃO -->
 <!-- ========================= -->
 
 ## ⚡ Automação & Sistemas
@@ -104,7 +103,7 @@ Atualmente também estou expandindo meus conhecimentos em <b>tecnologia e desenv
 ---
 
 <!-- ========================= -->
-<!-- TECNOLOGIAS -->
+<!-- DESENVOLVIMENTO -->
 <!-- ========================= -->
 
 ## 💻 Desenvolvimento
@@ -141,73 +140,146 @@ Atualmente estou ampliando meus conhecimentos em desenvolvimento através da cri
 <!-- PROJETOS -->
 <!-- ========================= -->
 
-<!-- ========================= -->
-<!-- PROJETOS -->
-<!-- ========================= -->
-
 ## 🚀 Projetos em Destaque
 
 <table width="100%">
+
+<!-- TÍTULOS -->
 <tr>
 
-<td width="50%" valign="top" align="center">
-
+<td width="50%" align="center">
 <h3>💬 Plataforma de Feedback</h3>
+</td>
 
-<img src="site feedback.png" width="480">
+<td width="50%" align="center">
+<h3>📊 Dashboard de Manutenção</h3>
+</td>
 
-<p align="left">
+</tr>
+
+
+<!-- IMAGENS -->
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="site feedback.png" width="96%" alt="Plataforma de Feedback">
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="dashboard.jpg" width="96%" alt="Dashboard de Manutenção">
+
+</td>
+
+</tr>
+
+
+<!-- DESCRIÇÕES -->
+<tr>
+
+<td width="50%" valign="top">
+
+<p>
 Aplicação desenvolvida para estruturar e acompanhar <b>feedbacks profissionais</b>, permitindo organizar avaliações, evolução e planos de ação.
-</p>
-
-<p align="left"><b>Tecnologias</b></p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/TypeScript-FF4FA3?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-11151C?style=flat-square&logo=nextdotjs&logoColor=FF4FA3">
-<img src="https://img.shields.io/badge/Supabase-C91878?style=flat-square&logo=supabase&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-11151C?style=flat-square&logo=vercel&logoColor=FF4FA3">
-</p>
-
-<p align="center">
-<a href="COLOQUE-AQUI-O-LINK-DO-SITE">
-<img src="https://img.shields.io/badge/ACESSAR%20PROJETO-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
 </p>
 
 </td>
 
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<h3>📊 Dashboard de Manutenção</h3>
-
-<img src="dashboard.jpg" width="480">
-
-<p align="left">
+<p>
 Dashboard desenvolvido em <b>Power BI</b> para acompanhamento de indicadores de manutenção, desempenho operacional e evolução das atividades.
 </p>
 
-<p align="left"><b>Indicadores</b></p>
+</td>
 
-<p align="left">
+</tr>
+
+
+<!-- SUBTÍTULOS -->
+<tr>
+
+<td width="50%" valign="bottom">
+<b>Tecnologias</b>
+</td>
+
+<td width="50%" valign="bottom">
+<b>Indicadores</b>
+</td>
+
+</tr>
+
+
+<!-- BADGES PRINCIPAIS -->
+<tr>
+
+<td width="50%" valign="top">
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-FF4FA3?style=flat-square&logo=typescript&logoColor=white">
+
+<img src="https://img.shields.io/badge/Next.js-11151C?style=flat-square&logo=nextdotjs&logoColor=FF4FA3">
+
+<img src="https://img.shields.io/badge/Supabase-C91878?style=flat-square&logo=supabase&logoColor=white">
+
+<img src="https://img.shields.io/badge/Vercel-11151C?style=flat-square&logo=vercel&logoColor=FF4FA3">
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<p>
 <img src="https://img.shields.io/badge/Preventivas-FF4FA3?style=flat-square">
+
 <img src="https://img.shields.io/badge/Corretivas-C91878?style=flat-square">
+
 <img src="https://img.shields.io/badge/SLA-FF4FA3?style=flat-square">
+
 <img src="https://img.shields.io/badge/MTTR-11151C?style=flat-square">
+
 <img src="https://img.shields.io/badge/Backlog-C91878?style=flat-square">
 </p>
 
-<p align="left">
+</td>
+
+</tr>
+
+
+<!-- ÚLTIMA LINHA -->
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<a href="COLOQUE-AQUI-O-LINK-DO-SITE">
+<img src="https://img.shields.io/badge/ACESSAR%20PROJETO-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</td>
+
+
+<td width="50%" valign="middle">
+
+<p>
 <img src="https://img.shields.io/badge/Power%20BI-FF4FA3?style=flat-square&logo=powerbi&logoColor=white">
+
 <img src="https://img.shields.io/badge/Dados-C91878?style=flat-square">
+
 <img src="https://img.shields.io/badge/KPIs-11151C?style=flat-square&logoColor=FF4FA3">
 </p>
 
 </td>
 
 </tr>
+
 </table>
+
+<br>
+
 ---
 
 <!-- ========================= -->
