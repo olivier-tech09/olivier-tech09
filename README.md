@@ -255,7 +255,7 @@ Dashboard desenvolvido em <b>Power BI</b> para acompanhamento de indicadores de 
 
 <td width="50%" align="center" valign="middle">
 
-<a href="[COLOQUE-AQUI-O-LINK-DO-SITE](https://plataforma-de-feedbacks-delta.vercel.app/)">
+<a href="[[COLOQUE-AQUI-O-LINK-DO-SITE](https://plataforma-de-feedbacks-delta.vercel.app/)](https://plataforma-de-feedbacks-delta.vercel.app/)">
 <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
