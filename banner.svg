@@ -1,0 +1,299 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- FUNDO -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090b10"></stop>
+      <stop offset="55%" stop-color="#10131a"></stop>
+      <stop offset="100%" stop-color="#160c16"></stop>
+    </linearGradient>
+
+    <!-- ROSA TECNOLÓGICO -->
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff7eb6"></stop>
+      <stop offset="45%" stop-color="#ff3d9a"></stop>
+      <stop offset="100%" stop-color="#c91878"></stop>
+    </linearGradient>
+
+    <!-- ROSA + CIANO -->
+    <linearGradient id="techLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff4fa3"></stop>
+      <stop offset="50%" stop-color="#ff8bc6"></stop>
+      <stop offset="100%" stop-color="#68e4ff"></stop>
+    </linearGradient>
+
+    <!-- GLOW -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <!-- GRID -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.035"></path>
+    </pattern>
+
+  </defs>
+
+
+  <!-- ====================================================== -->
+  <!-- FUNDO -->
+  <!-- ====================================================== -->
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"></rect>
+
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"></rect>
+
+
+  <!-- LINHA SUPERIOR -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#pink)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"></animate>
+  </rect>
+
+
+  <!-- ====================================================== -->
+  <!-- LADO ESQUERDO - REDE BACNET / MODBUS -->
+  <!-- ====================================================== -->
+
+  <g opacity="0.9">
+
+    <!-- LINHAS -->
+    <path d="M80 85 H185 V125 H255" fill="none" stroke="#ff4fa3" stroke-width="2" opacity="0.55"></path>
+
+    <path d="M80 165 H165 V125" fill="none" stroke="#68e4ff" stroke-width="2" opacity="0.5"></path>
+
+    <path d="M185 125 V205 H255" fill="none" stroke="#ff4fa3" stroke-width="2" opacity="0.35"></path>
+
+
+    <!-- NÓ BACNET -->
+    <rect x="40" y="66" width="90" height="38" rx="7" fill="#11151c" stroke="#ff4fa3"></rect>
+
+    <text x="85" y="81" fill="#ff8bc6" font-family="monospace" font-size="10" text-anchor="middle">
+      BACnet/IP
+    </text>
+
+    <text x="85" y="95" fill="#ffffff" font-family="monospace" font-size="8" text-anchor="middle" opacity="0.6">
+      DEVICE 01
+    </text>
+
+
+    <!-- NÓ MODBUS -->
+    <rect x="40" y="146" width="90" height="38" rx="7" fill="#11151c" stroke="#68e4ff"></rect>
+
+    <text x="85" y="161" fill="#68e4ff" font-family="monospace" font-size="10" text-anchor="middle">
+      Modbus RTU
+    </text>
+
+    <text x="85" y="175" fill="#ffffff" font-family="monospace" font-size="8" text-anchor="middle" opacity="0.6">
+      RS-485
+    </text>
+
+
+    <!-- CONTROLADORA -->
+    <rect x="165" y="105" width="95" height="42" rx="7" fill="#11151c" stroke="#ffffff" stroke-opacity="0.4"></rect>
+
+    <text x="212" y="122" fill="#ffffff" font-family="monospace" font-size="10" text-anchor="middle">
+      CONTROLLER
+    </text>
+
+    <text x="212" y="137" fill="#ff4fa3" font-family="monospace" font-size="8" text-anchor="middle">
+      BMS ONLINE
+    </text>
+
+
+    <!-- PACOTE BACNET ANIMADO -->
+    <circle r="5" fill="#ff4fa3" filter="url(#softGlow)">
+      <animateMotion dur="3s" repeatCount="indefinite" path="M80 85 H185 V125 H255"></animateMotion>
+    </circle>
+
+
+    <!-- PACOTE MODBUS ANIMADO -->
+    <circle r="4" fill="#68e4ff" filter="url(#softGlow)">
+      <animateMotion dur="4s" repeatCount="indefinite" path="M80 165 H165 V125 H255"></animateMotion>
+    </circle>
+
+  </g>
+
+
+  <!-- ====================================================== -->
+  <!-- CENTRO -->
+  <!-- ====================================================== -->
+
+  <text x="600" y="95" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="3" fill="#ffffff">
+
+      CRISTINA
+
+  </text>
+
+  <text x="600" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="300" letter-spacing="4" fill="url(#pink)" filter="url(#softGlow)">
+
+      OLIVEIRA
+
+  </text>
+
+
+  <!-- FRASE -->
+  <text x="600" y="182" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#ff8bc6">
+
+      What, like automation is hard?
+
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite"></animate>
+
+  </text>
+
+
+  <!-- LINHA -->
+  <rect x="425" y="198" width="350" height="2" rx="1" fill="url(#techLine)">
+
+    <animate attributeName="width" values="100;350;350;100" dur="5s" repeatCount="indefinite"></animate>
+
+  </rect>
+
+
+  <!-- ====================================================== -->
+  <!-- LADO DIREITO - EDIFÍCIO / BMS -->
+  <!-- ====================================================== -->
+
+  <g transform="translate(930 45)">
+
+    <!-- PRÉDIO 1 -->
+    <rect x="0" y="55" width="45" height="125" fill="#11151c" stroke="#ff4fa3" stroke-width="1.5"></rect>
+
+    <!-- PRÉDIO 2 -->
+    <rect x="50" y="25" width="60" height="155" fill="#11151c" stroke="#ff6eb4" stroke-width="1.5"></rect>
+
+    <!-- PRÉDIO 3 -->
+    <rect x="115" y="75" width="45" height="105" fill="#11151c" stroke="#68e4ff" stroke-width="1.5"></rect>
+
+
+    <!-- JANELAS -->
+    <g fill="#ff4fa3">
+
+      <circle cx="12" cy="72" r="3">
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"></animate>
+      </circle>
+
+      <circle cx="30" cy="95" r="3">
+        <animate attributeName="opacity" values="1;0.2;1" dur="2.7s" repeatCount="indefinite"></animate>
+      </circle>
+
+      <circle cx="65" cy="48" r="3">
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"></animate>
+      </circle>
+
+      <circle cx="92" cy="85" r="3">
+        <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"></animate>
+      </circle>
+
+    </g>
+
+
+    <g fill="#68e4ff">
+
+      <circle cx="128" cy="95" r="3">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="2.3s" repeatCount="indefinite"></animate>
+      </circle>
+
+      <circle cx="145" cy="135" r="3">
+        <animate attributeName="opacity" values="1;0.2;1" dur="2.9s" repeatCount="indefinite"></animate>
+      </circle>
+
+    </g>
+
+
+    <!-- BMS STATUS -->
+    <text x="80" y="205" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9" opacity="0.65">
+      BUILDING MANAGEMENT SYSTEM
+    </text>
+
+    <circle cx="15" cy="220" r="4" fill="#60ff9a">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite"></animate>
+    </circle>
+
+    <text x="27" y="223" fill="#60ff9a" font-family="monospace" font-size="9">
+      ONLINE
+    </text>
+
+  </g>
+
+
+  <!-- ====================================================== -->
+  <!-- LINHA DE VARREDURA -->
+  <!-- ====================================================== -->
+
+  <rect x="0" y="0" width="3" height="300" fill="#ff4fa3" opacity="0">
+
+    <animate attributeName="x" values="0;1195" dur="7s" repeatCount="indefinite"></animate>
+
+    <animate attributeName="opacity" values="0;0.25;0" dur="7s" repeatCount="indefinite"></animate>
+
+  </rect>
+
+
+  <!-- ====================================================== -->
+  <!-- TECNOLOGIAS -->
+  <!-- ====================================================== -->
+
+  <g font-family="monospace" font-size="11" text-anchor="middle">
+
+    <g transform="translate(340 245)">
+      <rect x="-48" y="-17" width="96" height="30" rx="15" fill="#151820" stroke="#ff4fa3" opacity="0.9"></rect>
+      <text y="3" fill="#ffffff">⚙ BMS</text>
+    </g>
+
+
+    <g transform="translate(450 245)">
+      <rect x="-48" y="-17" width="96" height="30" rx="15" fill="#151820" stroke="#ff6eb4" opacity="0.9"></rect>
+      <text y="3" fill="#ffffff">BACnet</text>
+    </g>
+
+
+    <g transform="translate(560 245)">
+      <rect x="-48" y="-17" width="96" height="30" rx="15" fill="#151820" stroke="#68e4ff" opacity="0.9"></rect>
+      <text y="3" fill="#ffffff">Modbus</text>
+    </g>
+
+
+    <g transform="translate(670 245)">
+      <rect x="-48" y="-17" width="96" height="30" rx="15" fill="#151820" stroke="#ff4fa3" opacity="0.9"></rect>
+      <text y="3" fill="#ffffff">&lt;/&gt; CODE</text>
+    </g>
+
+
+    <g transform="translate(780 245)">
+      <rect x="-48" y="-17" width="96" height="30" rx="15" fill="#151820" stroke="#68e4ff" opacity="0.9"></rect>
+      <text y="3" fill="#ffffff">HVAC</text>
+    </g>
+
+  </g>
+
+
+  <!-- ====================================================== -->
+  <!-- PONTOS DECORATIVOS -->
+  <!-- ====================================================== -->
+
+  <circle cx="315" cy="35" r="2" fill="#ff8bc6">
+    <animate attributeName="r" values="1;4;1" dur="2s" repeatCount="indefinite"></animate>
+  </circle>
+
+  <circle cx="875" cy="70" r="2" fill="#68e4ff">
+    <animate attributeName="r" values="1;3;1" dur="2.8s" repeatCount="indefinite"></animate>
+  </circle>
+
+
+  <!-- BORDA -->
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="none" stroke="#ff4fa3" stroke-opacity="0.2"></rect>
+
+</svg>
