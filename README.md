@@ -141,91 +141,73 @@ Atualmente estou ampliando meus conhecimentos em desenvolvimento através da cri
 <!-- PROJETOS -->
 <!-- ========================= -->
 
+<!-- ========================= -->
+<!-- PROJETOS -->
+<!-- ========================= -->
+
 ## 🚀 Projetos em Destaque
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">💬 Plataforma de Feedback</h3>
+<h3>💬 Plataforma de Feedback</h3>
 
-<p align="center">
-  <img src="site feedback.png" width="100%">
-</p>
+<img src="site feedback.png" width="480">
 
+<p align="left">
 Aplicação desenvolvida para estruturar e acompanhar <b>feedbacks profissionais</b>, permitindo organizar avaliações, evolução e planos de ação.
+</p>
 
-<br><br>
+<p align="left"><b>Tecnologias</b></p>
 
-<b>Tecnologias</b>
-
-<p>
-
+<p align="left">
 <img src="https://img.shields.io/badge/TypeScript-FF4FA3?style=flat-square&logo=typescript&logoColor=white">
-
 <img src="https://img.shields.io/badge/Next.js-11151C?style=flat-square&logo=nextdotjs&logoColor=FF4FA3">
-
 <img src="https://img.shields.io/badge/Supabase-C91878?style=flat-square&logo=supabase&logoColor=white">
-
 <img src="https://img.shields.io/badge/Vercel-11151C?style=flat-square&logo=vercel&logoColor=FF4FA3">
-
 </p>
 
 <p align="center">
-
 <a href="COLOQUE-AQUI-O-LINK-DO-SITE">
 <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-
 </p>
 
 </td>
 
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">📊 Dashboard de Manutenção</h3>
+<h3>📊 Dashboard de Manutenção</h3>
 
-<p align="center">
-  <img src="dashboard.jpg" width="100%">
-</p>
+<img src="dashboard.jpg" width="480">
 
+<p align="left">
 Dashboard desenvolvido em <b>Power BI</b> para acompanhamento de indicadores de manutenção, desempenho operacional e evolução das atividades.
-
-<br><br>
-
-<b>Indicadores</b>
-
-<p>
-
-<img src="https://img.shields.io/badge/Preventivas-FF4FA3?style=flat-square">
-
-<img src="https://img.shields.io/badge/Corretivas-C91878?style=flat-square">
-
-<img src="https://img.shields.io/badge/SLA-FF4FA3?style=flat-square">
-
-<img src="https://img.shields.io/badge/MTTR-11151C?style=flat-square">
-
-<img src="https://img.shields.io/badge/Backlog-C91878?style=flat-square">
-
 </p>
 
-<p>
+<p align="left"><b>Indicadores</b></p>
 
+<p align="left">
+<img src="https://img.shields.io/badge/Preventivas-FF4FA3?style=flat-square">
+<img src="https://img.shields.io/badge/Corretivas-C91878?style=flat-square">
+<img src="https://img.shields.io/badge/SLA-FF4FA3?style=flat-square">
+<img src="https://img.shields.io/badge/MTTR-11151C?style=flat-square">
+<img src="https://img.shields.io/badge/Backlog-C91878?style=flat-square">
+</p>
+
+<p align="left">
 <img src="https://img.shields.io/badge/Power%20BI-FF4FA3?style=flat-square&logo=powerbi&logoColor=white">
-
 <img src="https://img.shields.io/badge/Dados-C91878?style=flat-square">
-
 <img src="https://img.shields.io/badge/KPIs-11151C?style=flat-square&logoColor=FF4FA3">
-
 </p>
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 <!-- ========================= -->
