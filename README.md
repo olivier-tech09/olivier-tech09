@@ -15,7 +15,7 @@
 
 <img align="right" src="./working computer.gif" width="300">
 
-# Olá, eu sou a Cristina 👩‍💻
+<h1 style="border-bottom: none;">Olá, eu sou a Cristina 👩‍💻</h1>
 
 ### ⚡ Eletricista de Manutenção Eletroeletrônica
 ### 🏢 Automação Predial • BMS • Tecnologia
