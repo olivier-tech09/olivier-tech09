@@ -15,7 +15,7 @@
 <!-- SOBRE MIM -->
 <!-- ========================= -->
 
-<img align="right" src="./githubb.jpg" width="300">
+<img align="right" src="./working computer.gif" width="300">
 
 # Olá, eu sou a Cristina 👩‍💻
 
