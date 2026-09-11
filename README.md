@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./download.svg" width="100%" alt="Cristina Oliveira">
+  <img src="./banner.svg" width="100%" alt="Cristina Oliveira">
 </p>
 
 <br>
