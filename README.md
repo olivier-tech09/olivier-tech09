@@ -10,9 +10,11 @@
 
 
 
-<br clear="right">
+
 
 <img align="right" src="./working computer.gif" width="300">
+
+<br clear="right">
 
 # Olá, eu sou a Cristina 👩‍💻
 
