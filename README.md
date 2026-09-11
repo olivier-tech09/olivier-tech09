@@ -13,7 +13,7 @@
 
 <!-- ========================= -->
 <!-- SOBRE MIM -->
-<!-- ========================= -->
+<br clear="right">
 
 <img align="right" src="./working computer.gif" width="300">
 
