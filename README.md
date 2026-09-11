@@ -4,15 +4,12 @@
 
 <br>
  
- -----
-<!-- ========================= -->
-<!-- BANNER -->
-<!-- ========================= -->
 
 
 
-<!-- ========================= -->
-<!-- SOBRE MIM -->
+
+
+
 <br clear="right">
 
 <img align="right" src="./working computer.gif" width="300">
@@ -28,7 +25,7 @@ Atualmente também estou expandindo meus conhecimentos em **tecnologia e desenvo
 
 <br clear="right">
 
----
+
 
 <!-- ========================= -->
 <!-- EXPERIÊNCIA -->
