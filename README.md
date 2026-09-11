@@ -287,28 +287,24 @@ Dashboard desenvolvido em <b>Power BI</b> para acompanhamento de indicadores de 
 <!-- CONTATO -->
 <!-- ========================= -->
 
+<!-- ========================= -->
+<!-- CONTATO -->
+<!-- ========================= -->
+
 ## 🌐 Conecte-se comigo
 
 <p align="center">
 
-<a href="[COLE_AQUI_SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/cristina-oliveira-810595252?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  >
+<a href="SEU_LINK_DO_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="COLE_AQUI_SEU_LINK_DO_INSTAGRAM">
-  <img
-    src="https://img.shields.io/badge/Instagram-C91878?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  >
+&nbsp;&nbsp;
+<a href="SEU_LINK_DO_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-FF4FA3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 </p>
 
 <p align="center">
-  <sub>Automação • Tecnologia • Desenvolvimento</sub>
+  <b>Automação • Tecnologia • Desenvolvimento</b>
 </p>
