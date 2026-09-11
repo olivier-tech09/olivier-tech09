@@ -151,7 +151,7 @@ Atualmente estou ampliando meus conhecimentos em desenvolvimento através da cri
 <h3 align="center">💬 Plataforma de Feedback</h3>
 
 <p align="center">
-  <img src="COLOQUE-AQUI-A-IMAGEM-DO-SITE" width="100%">
+  <img src="site feedback.png" width="100%">
 </p>
 
 Aplicação desenvolvida para estruturar e acompanhar <b>feedbacks profissionais</b>, permitindo organizar avaliações, evolução e planos de ação.
@@ -188,7 +188,7 @@ Aplicação desenvolvida para estruturar e acompanhar <b>feedbacks profissionais
 <h3 align="center">📊 Dashboard de Manutenção</h3>
 
 <p align="center">
-  <img src="COLOQUE-AQUI-A-IMAGEM-DO-DASHBOARD" width="100%">
+  <img src="dashboard.jpg" width="100%">
 </p>
 
 Dashboard desenvolvido em <b>Power BI</b> para acompanhamento de indicadores de manutenção, desempenho operacional e evolução das atividades.
