@@ -13,20 +13,36 @@
 <!-- SOBRE MIM -->
 <!-- ========================= -->
 
-<img align="right" src="./working computer.gif" width="300">
+<table>
+<tr>
 
-<h1 style="border-bottom: none;">Olá, eu sou a Cristina 👩‍💻</h1>
+<td width="67%" valign="top">
 
-### ⚡ Eletricista de Manutenção Eletroeletrônica
-### 🏢 Automação Predial • BMS • Tecnologia
+<h1>Olá, eu sou a Cristina 👩‍💻</h1>
 
-Profissional da área de **manutenção eletroeletrônica e automação predial**, com experiência em sistemas BMS, integração de equipamentos, sistemas supervisórios e infraestrutura técnica.
+<h3>⚡ Eletricista de Manutenção Eletroeletrônica</h3>
 
-Atualmente também estou expandindo meus conhecimentos em **tecnologia e desenvolvimento**, utilizando programação para criar ferramentas aplicadas à automação, manutenção, gestão e melhoria de processos.
+<h3>🏢 Automação Predial • BMS • Tecnologia</h3>
+
+<p>
+Profissional da área de <b>manutenção eletroeletrônica e automação predial</b>, com experiência em sistemas BMS, integração de equipamentos, sistemas supervisórios e infraestrutura técnica.
+</p>
+
+<p>
+Atualmente também estou expandindo meus conhecimentos em <b>tecnologia e desenvolvimento</b>, utilizando programação para criar ferramentas aplicadas à automação, manutenção, gestão e melhoria de processos.
+</p>
+
+</td>
 
 
-<!-- NÃO COLOCAR --- AQUI -->
-<!-- NÃO COLOCAR <br clear="right"> AQUI -->
+<td width="33%" align="center" valign="top">
+
+<img src="./working computer.gif" width="300" alt="Working Computer GIF">
+
+</td>
+
+</tr>
+</table>
 
 
 <!-- ========================= -->
@@ -36,12 +52,14 @@ Atualmente também estou expandindo meus conhecimentos em **tecnologia e desenvo
 ## ⚡ Automação & Sistemas
 
 <p>
+
 <img src="https://img.shields.io/badge/BMS-FF4FA3?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/BACnet-FF4FA3?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Modbus-C91878?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/HVAC-FF4FA3?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/CLPs-C91878?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Instrumentação-FF4FA3?style=for-the-badge&logoColor=white">
+
 </p>
 
 - ⚡ Manutenção Eletroeletrônica
@@ -52,8 +70,6 @@ Atualmente também estou expandindo meus conhecimentos em **tecnologia e desenvo
 - 📡 Sensores e Instrumentação
 - 📊 Análise de dados e indicadores
 - 🔌 Integração de Sistemas
-
-<br clear="right">
 
 ---
 
@@ -145,16 +161,23 @@ Aplicação desenvolvida para estruturar e acompanhar <b>feedbacks profissionais
 <b>Tecnologias</b>
 
 <p>
+
 <img src="https://img.shields.io/badge/TypeScript-FF4FA3?style=flat-square&logo=typescript&logoColor=white">
+
 <img src="https://img.shields.io/badge/Next.js-11151C?style=flat-square&logo=nextdotjs&logoColor=FF4FA3">
+
 <img src="https://img.shields.io/badge/Supabase-C91878?style=flat-square&logo=supabase&logoColor=white">
+
 <img src="https://img.shields.io/badge/Vercel-11151C?style=flat-square&logo=vercel&logoColor=FF4FA3">
+
 </p>
 
 <p align="center">
+
 <a href="COLOQUE-AQUI-O-LINK-DO-SITE">
 <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
+
 </p>
 
 </td>
@@ -175,17 +198,27 @@ Dashboard desenvolvido em <b>Power BI</b> para acompanhamento de indicadores de 
 <b>Indicadores</b>
 
 <p>
+
 <img src="https://img.shields.io/badge/Preventivas-FF4FA3?style=flat-square">
+
 <img src="https://img.shields.io/badge/Corretivas-C91878?style=flat-square">
+
 <img src="https://img.shields.io/badge/SLA-FF4FA3?style=flat-square">
+
 <img src="https://img.shields.io/badge/MTTR-11151C?style=flat-square">
+
 <img src="https://img.shields.io/badge/Backlog-C91878?style=flat-square">
+
 </p>
 
 <p>
+
 <img src="https://img.shields.io/badge/Power%20BI-FF4FA3?style=flat-square&logo=powerbi&logoColor=white">
+
 <img src="https://img.shields.io/badge/Dados-C91878?style=flat-square">
+
 <img src="https://img.shields.io/badge/KPIs-11151C?style=flat-square&logoColor=FF4FA3">
+
 </p>
 
 </td>
