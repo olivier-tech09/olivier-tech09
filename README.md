@@ -291,7 +291,6 @@ Dashboard desenvolvido em <b>Power BI</b> para acompanhamento de indicadores de 
 <!-- CONTATO -->
 <!-- ========================= -->
 
-## 🌐 Conecte-se comigo
 
 <!-- ========================= -->
 <!-- CONTATO -->
@@ -305,14 +304,3 @@ Dashboard desenvolvido em <b>Power BI</b> para acompanhamento de indicadores de 
 
 <p align="center">
   ⚡ <b>Automação • Tecnologia • Desenvolvimento</b>
-</p>
-&nbsp;&nbsp;
-<a href="SEU_LINK_DO_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-FF4FA3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-</p>
-
-<p align="center">
-  <b>Automação • Tecnologia • Desenvolvimento</b>
-</p>
